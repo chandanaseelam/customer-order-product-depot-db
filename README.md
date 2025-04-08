@@ -1,6 +1,6 @@
 # Customer-Order-Product-Depot Database System
 
-![ER Diagram Preview](images/Screenshot_2023-09-25.png)
+![ER Diagram Preview](images/er-diagram.png)
 
 This project models a database system simulating operations for a photography business — including customers, orders, products, and depots. It focuses on relational integrity, efficient querying, and security features.
 
